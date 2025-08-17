@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+langchain>=0.1.0
+langchain-groq>=0.1.2
+langchain-core>=0.1.30
+huggingface-hub>=0.20.3
+sentence-transformers>=2.2.2
+pypdf>=3.17.4
+chromadb>=0.4.24
+tqdm>=4.66.2
